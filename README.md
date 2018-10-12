@@ -1,2 +1,0 @@
-# JSTrening
-Created with CodeSandbox
